@@ -47,10 +47,3 @@ except ValueError as ve:
     print(f"Value Error: {ve}")
 except Exception as e:
     print(f"An error occurred: {e}")
-
-
-# In[ ]:
-
-
-
-
