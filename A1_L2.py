@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import pandas as pd
 import numpy as np
 
@@ -50,10 +44,3 @@ print(f"Dimensionality of the vector space: {dimensionality}")
 print(f"Number of vectors in the vector space: {num_vectors}")
 print(f"Rank of Matrix A: {rank_A}")
 print(f"Product costs: {product_costs}")
-
-
-# In[ ]:
-
-
-
-
