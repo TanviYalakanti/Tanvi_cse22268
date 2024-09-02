@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import pandas as pd
 import numpy as np
 
@@ -41,10 +35,3 @@ print("Pseudo-Inverse of Matrix A:")
 print(A_pseudo_inverse)
 print("Model Vector X (Cost of each product):")
 print(X)
-
-
-# In[ ]:
-
-
-
-
