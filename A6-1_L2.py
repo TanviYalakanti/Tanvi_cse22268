@@ -42,22 +42,3 @@ except FileNotFoundError:
     print(f"Error: The file at path '{file_path}' was not found. Please check the file path and try again.")
 except Exception as e:
     print(f"An error occurred: {e}")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
