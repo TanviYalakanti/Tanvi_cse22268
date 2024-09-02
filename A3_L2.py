@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -51,10 +45,3 @@ y_pred = model.predict(X_test)
 print("Accuracy Score:", accuracy_score(y_test, y_pred))
 print("Classification Report:")
 print(classification_report(y_test, y_pred, zero_division=0))
-
-
-# In[ ]:
-
-
-
-
